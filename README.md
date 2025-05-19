@@ -3,6 +3,30 @@
 
 This project uses real-world weather data from Australia to build a machine learning model that predicts whether it will rain the next day. The dataset comes from the Australian Bureau of Meteorology and is publicly available on Kaggle.
 
+{ 
+
+# 🧹 Data Cleaning & Preprocessing Tool
+
+This project is part of the SkillHIGH Minor Project for internship training, focusing on automating essential data preprocessing tasks to ensure datasets are clean, consistent, and ready for analysis or machine learning applications.
+
+## 🔧 Features
+
+* **Handling Missing Values**: Identify and address null values using strategies like mean, median, or mode imputation.
+* **Duplicate Removal**: Detect and eliminate duplicate records to maintain data integrity.
+* **Outlier Detection**: Utilize Z-score or Interquartile Range (IQR) methods to identify and handle outliers.
+* **Data Normalization**: Apply techniques such as Min-Max Scaling to standardize data ranges.
+* **Automated Reporting**: Generate visualizations and summaries to provide insights into the cleaning process.
+
+## 🛠️ Technologies Used
+
+* **Python**: Core programming language for implementation.
+* **Pandas**: Data manipulation and analysis.
+* **NumPy**: Numerical computations.
+* **Matplotlib & Seaborn**: Data visualization.
+* **Scikit-learn**: Preprocessing utilities and algorithms.([GitHub][1], [GitHub][2], [GitHub][3])
+
+
+}
 🔗 View Project Notebook on Kaggle
 👉 [https://www.kaggle.com/code/krishnayadav456wrsty/predicting-next-day-rain](https://www.kaggle.com/code/krishnayadav456wrsty/predicting-next-day-rain)
 
