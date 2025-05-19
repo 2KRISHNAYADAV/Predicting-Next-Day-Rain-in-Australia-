@@ -6,6 +6,7 @@ This project uses real-world weather data from Australia to build a machine lear
 { 
 
 # 🧹 Data Cleaning & Preprocessing Tool
+![Screenshot 2025-05-19 201752](https://github.com/user-attachments/assets/2ae9a3d5-f5fb-482b-b9df-b74ffe75a300)
 
 This project is part of the SkillHIGH Minor Project for internship training, focusing on automating essential data preprocessing tasks to ensure datasets are clean, consistent, and ready for analysis or machine learning applications.
 
